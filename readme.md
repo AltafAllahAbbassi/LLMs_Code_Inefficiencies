@@ -24,7 +24,8 @@ The repository also includes scripts used in our study for:
 - Generating code from models (generate_code.py).
 - Judging code inefficiencies (judger.py).
 - Analyzing the dataset and survey responses (ineffEval_analysis.ipynb and survey_results_analysis.ipynb).
-
+  
+5. **inefficient_examples** oontains examples of inefficient LLM-generated code.
 
 
 📌 *For further details, please refer to our paper: A Taxonomy of Inefficiencies in LLM-Generated Code.*
